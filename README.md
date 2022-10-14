@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a guide to the Edx Front End Development Bootcampt Prework module.
+This is a guide to the Edx Front End Development Bootcamp Prework module.
 
 It serves as a quick reference for many of the useful tips and workflows presented in the module.
 Creating this project gave me the opportunity to put into practice the techniques I was learning - plus, I no longer need to keep track of reams of notes.
